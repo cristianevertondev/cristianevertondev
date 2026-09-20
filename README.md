@@ -44,7 +44,7 @@ I'm building Android applications and games while continuously improving my skil
 ## 📫 Connect With Me
 
 * GitHub: [@cristianevertondev](https://github.com/cristianevertondev)
-* LinkedIn: Coming soon
+* LinkedIn: https://www.linkedin.com/in/cristian-everton-30388b438/
 * Google Play: Coming soon
 
 ---
